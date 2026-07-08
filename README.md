@@ -16,15 +16,18 @@
 <br/>
 
 <h3 align="left">🌐 Connect with me:</h3>
+
 <p align="left">
   <a href="https://linkedin.com/in/didarulalamrafi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(94%) saturate(7488%) hue-rotate(0deg) brightness(92%) contrast(107%);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
   <a href="https://github.com/didarulalamrafi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="mailto:didarulalamrafi1312@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Gmail" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(27%) sepia(94%) saturate(7488%) hue-rotate(0deg) brightness(92%) contrast(107%);" />
+
+  <a href="mailto:didarulalamrafi1312@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
