@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Didarul Alam</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=didarulalamrafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/didarulalamrafi?tab=followers">
-    <img src="https://img.shields.io/github/followers/didarulalamrafi?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
 
 <br/>
 
@@ -30,8 +24,12 @@
   <a href="https://github.com/didarulalamrafi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="mailto:didarulalamrafi1312@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  <a href="didarulalamrafi1312@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" 
+     alt="Gmail" 
+     width="40" 
+     height="40" 
+     style="filter: invert(27%) sepia(94%) saturate(7488%) hue-rotate(0deg) brightness(92%) contrast(107%);">
   </a>
 </p>
 
@@ -76,33 +74,25 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+         alt="Bootstrap" 
+         width="50" 
+         height="50"/>
+</a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" 
+         alt="Photoshop" 
+         width="50" 
+         height="50"/>
+</a>
 </p>
 
 <br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=didarulalamrafi&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didarulalamrafi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=didarulalamrafi&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<br/>
 
 ---
 
