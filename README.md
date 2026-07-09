@@ -1,3 +1,5 @@
+ <img align="center" src="https://ibb.co/PsTB51s4" alt="Banner" height="1280" width="420" /> 
+
 <h1 align="center">Hi 👋, I'm Didarul Alam</h1>
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
