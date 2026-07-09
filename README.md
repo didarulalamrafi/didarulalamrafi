@@ -1,7 +1,7 @@
  <img align="center" src="https://i.ibb.co/tM9h0HFC/gemini-svg.png" alt="Banner" height="420" width="1280" /> 
 
 <h1 align="center">Hi 👋, I'm Didarul Alam</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <br/>
 
@@ -14,6 +14,16 @@
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, TailwindCSS**
 - 📫 How to reach me: **didarulalamrafi1312@gmail.com**
 - ⚡ Fun fact: **I love turning complex problems into elegant solutions**
+
+<br/>
+
+## 🚀 Current Activities
+
+- 🌱 I’m currently exploring **Next.js** to build modern, fast, and SEO-friendly web applications.
+- 💼 I’m working on a **Rental Booking Website** with features like property listings, online booking, authentication, and user dashboards.
+- 📚 I’m improving my skills in **TypeScript**, **MongoDB**, and **Express.js** to strengthen my full-stack development expertise.
+- 🔧 I’m building responsive and scalable web applications using the **MERN Stack**.
+- 🎯 My goal is to become a skilled **Full-Stack Web Developer** by building real-world projects and continuously learning new technologies.
 
 <br/>
 
